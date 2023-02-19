@@ -107,18 +107,18 @@
 
 .btnHero .btnPresaleMid {
 	margin-top: 2rem;
-	background-color: #00ff83;
+	background-color: #fea505;
     color: #000;
     font-weight: 700;
-    box-shadow: 3px 3px 15px #00ff83b0;
+    box-shadow: 3px 3px 15px #fea505;
 }
 
 .btnHero .btnPaper {
 	margin-top: 2rem;
-	background-color: #00ff83;
+	background-color: #fea505;
     color: #000;
     font-weight: 700;
-    box-shadow: 3px 3px 15px #00ff83b0;
+    box-shadow: 3px 3px 15px #fea505;
 }
 
 #content .idoPhoneSection {
@@ -137,7 +137,7 @@
 }
 
 .elementor-1943 .elementor-element.elementor-element-484d4ea:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-1943 .elementor-element.elementor-element-484d4ea > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
-	background-color: #6eff85bf;
+	background-color: #fea505;
 }
 
 .flexMe {
@@ -178,7 +178,7 @@
 }
 
 .page .iconMenu a:hover {
-	color: #00FF83;
+	color: #fea505;
 }
 
 .elementor-nav-menu--layout-horizontal .elementor-nav-menu>li:not(:last-child):after {
@@ -206,7 +206,7 @@
    
     background-color: transparent;
     text-decoration: none;
-    box-shadow: 6px 6px 15px #00ff83;
+    box-shadow: 6px 6px 15px #fea505;
 }
 
 :root {
