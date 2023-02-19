@@ -158,13 +158,13 @@
 }
 
 .page .idoMenu a {
-	background-color: #00ff83 !important;
+	background-color: #fea505 !important;
     color: #2d2d2d !important;
     border-radius: 25px !important;
     padding: 0px 50px !important;
     height: 30px !important;
     margin: auto !important;
-    box-shadow: 5px 5px 15px #00ff83  !important;
+    box-shadow: 5px 5px 15px #fea505  !important;
 }
 
 .page .iconMenu {
