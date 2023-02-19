@@ -87,18 +87,18 @@
 }
 
 .intro-buttons button {
-	border: 1px solid #00ff83;
-    color: #00ff83;
+	border: 1px solid #fea505;
+    color: #fea505;
     border-radius: 25px;
 }
 
 .intro-buttons button.btnPresale {
 	width: 100%;
-	background-color: #00ff83;
+	background-color: #fea505;
     color: #161616;
     font-weight: 700;
     /* border: 3px solid #26252594; */
-    box-shadow: 3px 3px 15px #00ff83b0;
+    box-shadow: 3px 3px 15px #fea505;
 }
 
 .btnHero .btnDapp {
